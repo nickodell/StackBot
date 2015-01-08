@@ -1,0 +1,7 @@
+*.pyc
+config.py
+hello_world.py
+botlog.txt
+cache
+ChatExchange2
+chatexchange
